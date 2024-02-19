@@ -19,7 +19,7 @@
 
 *Summer 2019 - Spring 2023*
 - Undergraduate Advisor: Elsa Cleland, PhD
-- Undergraduate Ecology Research Award Recipient 
+- Undergraduate Ecology Excellence Award Recipient 
 - 
 
 
@@ -41,17 +41,11 @@ My project (in its preliminary stages) looks at the relationships between the in
 *Fall 2021- Spring 2023*
 
 ## Grants
-**Liberty University Provost Research Initiative (PRI) Grant** 
+**(grant title)** 
 
-*$9,800 |	2017- 2018* 
+*$Amount |	2017- 2018* 
 
-This grant is in support of research project to explore crayfish ecotoxicology. Project experimental design includes collaboration efforts with Dr. Mark Blais (histology) and Dr. Todd Allen (analytical chemistry)
 
-**Virginia Academy of Science poster presentation award** 
-
-*$750 |	2017*
-
-Research Grant award to support research on the effects of low-level Atrazine exposure on crayfish development.
 
 
 ## Teaching Experience
