@@ -55,7 +55,7 @@ Research Grant award to support research on the effects of low-level Atrazine ex
 
 
 ## Teaching Experience
-**Instructor of Record for Introduction to Organismal Biology**
+**y**
 
 *Temple University Dept of Biology | (season, year)*
 -N/A
