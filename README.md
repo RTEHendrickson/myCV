@@ -57,67 +57,19 @@ Research Grant award to support research on the effects of low-level Atrazine ex
 ## Teaching Experience
 **Instructor of Record for Introduction to Organismal Biology**
 
-*Temple University Dept of Biology | Fall 2023*
-- Instructor for two weekly sections of the lab
--	Teaches techniques including FigTree and MEGA genetic analysis softwares, dissections
+*Temple University Dept of Biology | (season, year)*
+-N/A
 
-**Spatial Data Analysis in R- Global Change Science**		
+## Conference Presentations																				
 
-*Temple University Dept of Biology | Spring 2023*
--	Created and taught a guest lecture
--	Taught basics of GIS analysis in R coding language using packages such as terra and stars'
-
-
-## Oral Presentations																				
-
-“Low Level Atrazine Exposure Effects on Crayfish Development.” Presented at Big South Undergraduate Research Symposium, Spring 8th Annual Meeting, April 14, 2018.
+“Interspecific Transmission of Seagrass Wasting Disease from Pacific Oysters to Eelgrass.” Presented at the Society for Intergrative and Compartivive Biology, Annual Meeting, Austin, Texas, 2023.
 
 
 ## Internships																								
-**Marine Ecotoxicology Summer Research Intern** 
+**NSF REU Undergraduate Research Fellow** 
 
-*Dauphin Island Sea Laboratory | Summer 2019*
--	Performed extractions of organic toxins from shellfish and fish tissues
--	Performed biochemical assays such as ELISA, protein assays for analyzing toxin content in tissue samples 
--	Analyzed results of assay using GraphPad Prism Statistical Analysis Software
--	Collected and prepared field samples blue-green algae 
--	Worked on HAB (harmful algal bloom) emergency response team for 2019 blue-green algal bloom off MS/AL coast
-
-**Intertidal Ecology Summer Intern** 
-
-*Shoals Marine Laboratory | Summer 2018*
--	Expanded a long-term survey of the Appledore intertidal zone
--	Collaborated with other interns to perform survey according to National Park surveying method, various other methods
--	Analyzed large dataset for trends in abundance, performed statistical analysis for project
--	Produced professional poster for RARGOM conference (won best poster in Ecology)
+*Friday Harbor Laboratories | Summer 2022*
+-	Proposed and conducted an experiment researching the transmission of Seagrass Wasting Disease, caused by the protist Labyrinthula zosterae, from Pacific oysters (*Crassostrea gigas*) to Eelgrass (*Zosterae marina*)
 
 
-## Work Experience																			
-
-**Laboratory Manager** 
-
-*Temple University Dept of Biology | July – November 2022*
--	Lead a research project funded by California Department of Food and Agriculture
--	Mentored eight undergraduate students in California DFA project
--	Produced machine learning models and figures for a grant report filed to California DFA
--	Oversaw administrative lab functions including conducting interviews
-
-**Laboratory Assistant** 
-
-*Temple University Dept of Genetics / Biochemistry | Feb 2020 – July 2022*
--	Independently planned and executed experiments involving SNP genotyping and Sanger sequencing 
--	Managed workflow and project assignments for temporary full-time workers
--	Worked in a high-throughput COVID-19 CLIA testing lab using an automated rt-PCR test
--	Performed tests by-hand. Helped to upscale and automate high throughput testing as part of an effort to execute Temple University COVID testing requirements for students
--	CLIA validation of clinical TTR test- Genotyped blood samples to screen for SNP causing inherited genetic disorders
--	Received, processed, and stored bariatric/neurology samples for a CLIA Biobank
--	Oversaw zebrafish husbandry for lab, performed maintenance on Aquaneering aquatic housing system
-
-**Instructor of Radio Telemetry** 
-
-*Liberty University Dept of Biology and Chemistry | Fall 2017 - Spring 2019*
--	Worked as TA of Ecology and main instructor for students in telemetry and mark-recapture techniques
--	Led mark-recapture study on urban population of eastern box turtle (T. c. carolina)
--	Used radio telemetry used to track turtles and determine home-range extent
--	Trained successor to take over position
 
