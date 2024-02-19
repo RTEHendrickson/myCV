@@ -1,7 +1,7 @@
 # **CURRICULUM VITAE**
-## **Samuel M. Owens**
+## **Robert T.E. Hendrickson**
 ### **PhD Biology Student**
-[Website](https://sites.temple.edu/smowens/) | [Email](mailto:sam.owens@temple.edu)
+[Website]) | [Email](mailto:tur61275@temple.edu)
 - _Integrative Ecology Lab_ 
 - Department of Biology | Center for Biodiversity
 - Temple University
@@ -10,35 +10,35 @@
 ## Education
 **Temple University | PhD Biology**
 
-*Spring 2022 - Current*
-- Graduate Advisor: Matthew Helmus, PhD
-- Thesis: "Modeling climate change effects on the establishment of the invasive *L. delicatula*"
+*Fall 2023 - Current*
+- Graduate Advisor: Jocelyn Behm, PhD
+- Thesis: "In progress"
 
 
-**Liberty University | BS Zoology, minor in Chemistry**
+**University of California San Diego | BS Ecology, Behavior, and Evolution**
 
-*Fall 2015 - Spring 2019*
-- Undergraduate Advisor: Norman Reichenbach, PhD
-- graduate of the LU Eagle Scholars Leadership Program
-- Academic memberships: NSCS National Honor Society, Biology Club, Scientific Research Society
+*Summer 2019 - Spring 2023*
+- Undergraduate Advisor: Elsa Cleland, PhD
+- Undergraduate Ecology Research Award Recipient 
+- 
 
 
 ## Research Projects
-**Modeling climate change effects on the establishment of the invasive *L. delicatula***
+**Mapping and management of invasive *L. delicatula* in Pennsylvania vineyards**
 
-*Spring 2022 - Current*
+*Fall 2023 - Current*
 
-My project takes data science approach to tackle a biological issue. Invasive species are increasingly prevalent, and a massive amount of data has been compiled about invasion trends, so techniques need to be developed to utilize these biological datasets. I use the machine-learning software “MaxEnt” to make predictions about the risk of spread for L. delicatula, both currently and under climate change. I am developing this invasion prediction framework into an R package and website that will be freely distributed. 
-
-
-**Toxicological effects of atrazine and glyphosate on a crayfish ectosymbiont (*C. ingens*)**
-
-*Summer - Fall 2018*
+My project (in its preliminary stages) looks at the relationships between the invasive spotted lanternfly and it uses of surrounding vineyard habitats
 
 
-**Toxicological effects of atrazine on the Appalachian Brook Crayfish (*C. b. bartonii*)**		
+**Disease transmission dynamic of Seagrass Wasting Disease from Pacific Oysters to Eelgrass**
 
-*Fall 2015- Spring 2018*
+*Summer 2022- Spring 2023*
+
+
+**Effects of climate change on flowering phenology of the California state plant (*Eschscholzia californica*)**		
+
+*Fall 2021- Spring 2023*
 
 ## Grants
 **Liberty University Provost Research Initiative (PRI) Grant** 
